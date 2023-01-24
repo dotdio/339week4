@@ -1,0 +1,42 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ }
+
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ li{
+    background-color: orange;
+    border-radius: 20%;
+    border: solid 5px black;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+ }
+ 
+ img{
+    border: 7px red;
+    border-style: solid;
+    width: 24%;
+    padding: 12px;
+    box-sizing: border-box;
+ }
+
+ p{
+    font: Arial;
+    font-size: 16px;
+    color: fuchsia;
+    border: dashed 4px black;
+    padding: 5px;
+    margin: 5px;
+ }
